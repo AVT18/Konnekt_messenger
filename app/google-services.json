@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "721395280400",
+    "firebase_url": "https://konnekt2-fd02d.firebaseio.com",
+    "project_id": "konnekt2-fd02d",
+    "storage_bucket": "konnekt2-fd02d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:721395280400:android:d0098a7f67ab4d71d4f895",
+        "android_client_info": {
+          "package_name": "com.example.konnekt2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "721395280400-f440q625fqrcas8nq91in2nft8o5kq38.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhKo3MQpykwZysfMMqteJ0n0y5IhHrApo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "721395280400-f440q625fqrcas8nq91in2nft8o5kq38.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

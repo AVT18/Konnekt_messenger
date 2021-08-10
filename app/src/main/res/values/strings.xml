@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">KONNEKT</string>
+
+    <string name="no_users_found">No users found!</string>
+    <string name="login"><b>LOGIN</b></string>
+    <string name="enter_username">enter username</string>
+    <string name="click_here_to_register">Click here to register</string>
+    <string name="write_a_message">Type a message</string>
+    <string name="click_here_to_login">Click here to login</string>
+    <string name="enter_password">enter password</string>
+    <string name="register"><b>REGISTER</b></string>
+    <string name="family">Family</string>
+    <string name="close">Close Friends</string>
+    <string name="friend">Friends</string>
+    <string name="associate">Associates</string>
+</resources>
